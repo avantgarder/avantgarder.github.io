@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GPT가 자동으로 쓴 블로그 포스트"
+title: "AI 타로가 내 감정을 이해한다고? 챗GPT로 마음을 읽어봤습니다"
 date: 2025-04-22 12:00:00 +0900
 categories: [블로그, GPT]
 tags: [AI, 자동화, GitHub]
